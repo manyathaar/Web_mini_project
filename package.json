@@ -6,7 +6,7 @@
     "@hapi/joi": "^15.0.0",
     "axios": "^0.18.1",
     "bcrypt": "^3.0.0",
-    "bootstrap": "^4.3.1",
+    "bootstrap": "^4.6.2",
     "font-awesome": "^4.7.0",
     "lodash": "^4.17.15",
     "mongoose": "^5.5.3",
